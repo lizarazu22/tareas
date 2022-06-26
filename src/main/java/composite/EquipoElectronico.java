@@ -55,5 +55,5 @@ public abstract class EquipoElectronico {
     public abstract void operation();
     public abstract void add(EquipoElectronico component);
     public abstract void remove(EquipoElectronico component);
-    public abstract void getChild(int position);
+    public abstract void getChild(int position );
 }
